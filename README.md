@@ -1,1 +1,1 @@
-Code of the AIU for the AIoTM-1 device.
+This is the code for the article: 'Development of AIoT-Based Health Kiosks for Patient Classification in E-Health.'
